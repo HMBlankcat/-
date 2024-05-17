@@ -1,0 +1,12 @@
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\bin\Debug\高斯投影正反算.exe.config
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\bin\Debug\高斯投影正反算.exe
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\bin\Debug\高斯投影正反算.pdb
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.csproj.AssemblyReference.cache
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.Form1.resources
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.Properties.Resources.resources
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.csproj.GenerateResource.cache
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.csproj.CoreCompileInputs.cache
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.exe
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.pdb
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.zhengsuan.resources
+E:\大学\SECONDE\大地测量学\高斯投影正反算\高斯投影正反算\obj\Debug\高斯投影正反算.fansuan.resources
